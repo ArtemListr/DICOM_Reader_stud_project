@@ -1,0 +1,59 @@
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.exe
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.deps.json
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.json
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.dev.json
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.dll
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\ref\Dicom_project_listr.dll
+C:\Users\Listr\source\repos\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.pdb
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.AssemblyReference.cache
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.GenerateResource.cache
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfoInputs.cache
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfo.cs
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.CoreCompileInputs.cache
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.dll
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\ref\Dicom_project_listr.dll
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.pdb
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.genruntimeconfig.cache
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Form_dicom.resources
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.DicomFileForm.resources
+C:\Users\Listr\source\repos\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Properties.Resources.resources
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.exe
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.deps.json
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.json
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.dev.json
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.dll
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.pdb
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.AssemblyReference.cache
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.DicomFileForm.resources
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Form_dicom.resources
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Properties.Resources.resources
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.GenerateResource.cache
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfoInputs.cache
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfo.cs
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.CoreCompileInputs.cache
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.dll
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\refint\Dicom_project_listr.dll
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.pdb
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.genruntimeconfig.cache
+C:\Users\Listr\Desktop\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\ref\Dicom_project_listr.dll
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.exe
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.deps.json
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.json
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.runtimeconfig.dev.json
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.dll
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\bin\Debug\net5.0-windows\Dicom_project_listr.pdb
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.DicomFileForm.resources
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Form_dicom.resources
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.Properties.Resources.resources
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.GenerateResource.cache
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.GeneratedMSBuildEditorConfig.editorconfig
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfoInputs.cache
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.AssemblyInfo.cs
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.csproj.CoreCompileInputs.cache
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.dll
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\refint\Dicom_project_listr.dll
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.pdb
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\Dicom_project_listr.genruntimeconfig.cache
+D:\НОУТ АРТЁМ\УЧЁБА\4 курс\Dicom_project_listr\Dicom_project_listr\obj\Debug\net5.0-windows\ref\Dicom_project_listr.dll

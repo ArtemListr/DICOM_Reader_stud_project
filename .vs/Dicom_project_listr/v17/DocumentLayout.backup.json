@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|d:\\\u043D\u043E\u0443\u0442 \u0430\u0440\u0442\u0451\u043C\\\u0443\u0447\u0451\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\dicom_project_listr\\dicom_project_listr\\dicom_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicom_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|d:\\\u043D\u043E\u0443\u0442 \u0430\u0440\u0442\u0451\u043C\\\u0443\u0447\u0451\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\dicom_project_listr\\dicom_project_listr\\dicomfileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicomfileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|d:\\\u043D\u043E\u0443\u0442 \u0430\u0440\u0442\u0451\u043C\\\u0443\u0447\u0451\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\dicom_project_listr\\dicom_project_listr\\dicomfileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicomfileform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|d:\\\u043D\u043E\u0443\u0442 \u0430\u0440\u0442\u0451\u043C\\\u0443\u0447\u0451\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\dicom_project_listr\\dicom_project_listr\\dicom_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicom_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\dicomfileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicomfileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\dicom_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:dicom_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|d:\\\u043D\u043E\u0443\u0442 \u0430\u0440\u0442\u0451\u043C\\\u0443\u0447\u0451\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\dicom_project_listr\\dicom_project_listr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08A13A3C-698C-4354-BDFB-5F26A5BE1B49}|Dicom_project_listr.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dicom_class.cs",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\Dicom_class.cs",
+              "RelativeDocumentMoniker": "Dicom_class.cs",
+              "ToolTip": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\Dicom_class.cs",
+              "RelativeToolTip": "Dicom_class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:22:16.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DicomFileForm.cs",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.cs",
+              "RelativeDocumentMoniker": "DicomFileForm.cs",
+              "ToolTip": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.cs",
+              "RelativeToolTip": "DicomFileForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:22:17.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:22:17.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DicomFileForm.Designer.cs",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.Designer.cs",
+              "RelativeDocumentMoniker": "DicomFileForm.Designer.cs",
+              "ToolTip": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.Designer.cs",
+              "RelativeToolTip": "DicomFileForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:22:17.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DICOM_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DICOM_Form.cs",
+              "RelativeDocumentMoniker": "DICOM_Form.cs",
+              "ToolTip": "C:\\Users\\Listr\\Desktop\\Dicom_project_listr\\Dicom_project_listr\\DICOM_Form.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-07T09:22:17.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DicomFileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.cs",
+              "RelativeDocumentMoniker": "DicomFileForm.cs",
+              "ToolTip": "C:\\Users\\Listr\\Desktop\\Dicom_project_listr\\Dicom_project_listr\\DicomFileForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-07T09:22:20.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DICOM_Form.Designer.cs",
+              "DocumentMoniker": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DICOM_Form.Designer.cs",
+              "RelativeDocumentMoniker": "DICOM_Form.Designer.cs",
+              "ToolTip": "D:\\\u041D\u041E\u0423\u0422 \u0410\u0420\u0422\u0401\u041C\\\u0423\u0427\u0401\u0411\u0410\\4 \u043A\u0443\u0440\u0441\\Dicom_project_listr\\Dicom_project_listr\\DICOM_Form.Designer.cs",
+              "RelativeToolTip": "DICOM_Form.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:22:20.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
